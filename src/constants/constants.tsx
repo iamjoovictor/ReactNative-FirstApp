@@ -18,6 +18,6 @@ export const linkedinLink = 'https://www.linkedin.com/in/jo%C3%A3o-victor-silva-
 
 export const githubLink = 'https://github.com/joovictsousa';
 
-export const screens = ['home', 'maps', 'codeScanner', 'contact', 'data'];
+export const screens = ['contact', 'data', 'maps', 'codeScanner'];
 
-export const screensNamed = {home: 'Home', maps: 'Google Maps', codeScanner: 'Scanner', contact: 'Contato', data:'Dados Salvos'};
+export const screensNamed = {contact: 'Contato', data:'Dados Salvos', maps: 'Google Maps', codeScanner: 'Scanner'};

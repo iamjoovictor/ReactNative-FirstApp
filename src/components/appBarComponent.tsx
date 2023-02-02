@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { AppBar, HStack, IconButton, ListItem } from "@react-native-material/core";
+import { AppBar, IconButton, ListItem } from "@react-native-material/core";
 import Icon from "@expo/vector-icons/MaterialCommunityIcons";
 import styles from "../styles/appBarStyles";
-import { Pressable, Text, View } from "react-native";
+import { View } from "react-native";
 import { screens, screensNamed } from "../constants/constants";
 
 export function AppBarComponent(props) {
@@ -17,7 +17,7 @@ export function AppBarComponent(props) {
       <AppBar
         color="blue"
         style={styles.appbar}
-        title="App"
+        title="Aplicativo Teste"
         centerTitle={true}
         leading={props => (
           <IconButton
