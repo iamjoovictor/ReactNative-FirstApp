@@ -16,7 +16,7 @@ export const whasappLink = 'https://api.whatsapp.com/send?phone=5592984964103';
 
 export const linkedinLink = 'https://www.linkedin.com/in/jo%C3%A3o-victor-silva-49b117162/';
 
-export const githubLink = 'https://github.com/joovictsousa';
+export const githubLink = 'https://github.com/iamjoovictor';
 
 export const screens = ['contact', 'data', 'maps', 'codeScanner'];
 
