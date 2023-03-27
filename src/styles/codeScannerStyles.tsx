@@ -4,6 +4,8 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#fff',
+        zIndex: -1,
+        elevation: -1
     },
     barCode: {
         flex: 1,

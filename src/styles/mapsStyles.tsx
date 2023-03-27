@@ -3,6 +3,8 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
     container: {
         flex: 1,
+        zIndex: -1,
+        elevation: -1
     },
     mapView: {
         position:'absolute',

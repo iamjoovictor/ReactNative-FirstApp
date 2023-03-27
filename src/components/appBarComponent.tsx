@@ -32,7 +32,8 @@ export function AppBarComponent(props) {
       />
       {valid && screens.map((element, index) => {
         return (
-          <View
+          <View 
+            style={styles.viewListItem}
             key={index}
           >
             {

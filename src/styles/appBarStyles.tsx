@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
     },
     viewListItem: {
         zIndex: 1,
-        elevation: 1
+        elevation: 1,
     },
 });
 
